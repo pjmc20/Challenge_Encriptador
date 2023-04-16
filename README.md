@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/81193583/232181220-b4690f4c-08cb-4fa2-
 
 ## **Uso de Botones 🕹**
 
-   Usa `encriptar` para el texto ingresado
+   Usa `encriptar` para el texto ingresado.
    
    Usa `desencriptar` para el texto generado al encriptar.
    
